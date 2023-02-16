@@ -10,7 +10,7 @@ This algorithmic trading strategy is based on the following principles:
 
 3) Sell the stock when the price crosses below the SMA, indicating a downtrend.
 
-4)Use a stop loss to limit potential losses.
+4) Use a stop loss to limit potential losses.
 
 **Requirements**
 
@@ -22,6 +22,6 @@ To run this program, you will need to have Python 3 installed on your machine. Y
 
 2) Open a terminal or command prompt and navigate to the directory where the repository is located.
 
-3) Run the following command to install any necessary dependencies: **pip install -r requirements.txt**
+3) Run the following command to install any necessary dependencies:  **pip install -r requirements.txt**
 
 
