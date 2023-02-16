@@ -18,12 +18,10 @@ To run this program, you will need to have Python 3 installed on your machine. Y
 
 **Installation**
 
-Clone the repository to your local machine.
+1) Clone the repository to your local machine.
 
-Open a terminal or command prompt and navigate to the directory where the repository is located.
+2) Open a terminal or command prompt and navigate to the directory where the repository is located.
 
-Run the following command to install any necessary dependencies:
-
-pip install -r requirements.txt
+3) Run the following command to install any necessary dependencies: **pip install -r requirements.txt**
 
 
