@@ -8,14 +8,16 @@ This algorithmic trading strategy is based on the following principles:
 
 2) Buy the stock when the price crosses above the SMA, indicating an uptrend.
 
-3)Sell the stock when the price crosses below the SMA, indicating a downtrend.
+3) Sell the stock when the price crosses below the SMA, indicating a downtrend.
 
 4)Use a stop loss to limit potential losses.
 
 **Requirements**
+
 To run this program, you will need to have Python 3 installed on your machine. You can download the latest version of Python 3 from the official website: https://www.python.org/downloads/
 
 **Installation**
+
 Clone the repository to your local machine.
 
 Open a terminal or command prompt and navigate to the directory where the repository is located.
